@@ -1,8 +1,8 @@
-//57) Uma agência de uma cidade do interior tem, no máximo, 10.000 clientes.
-//Criar um algoritmo que possa entrar com número da conta, nome e saldo de cada cliente.
-//Imprimir todas as contas, os respectivos saldos e uma das mensagens: positivo/negativo.
-//A digitação acaba quando se digita - 9999 para número da conta ou quando chegar a 10.000.
-//deverá sair o total de clientes com saldo negativo, o total de clientes da agência e o saldo da agência.
+/*57) Uma agência de uma cidade do interior tem, no máximo, 10.000 clientes.
+Criar um algoritmo que possa entrar com número da conta, nome e saldo de cada cliente.
+Imprimir todas as contas, os respectivos saldos e uma das mensagens: positivo/negativo.
+A digitação acaba quando se digita - 9999 para número da conta ou quando chegar a 10.000.
+deverá sair o total de clientes com saldo negativo, o total de clientes da agência e o saldo da agência.*/
 #include <iostream>
 #include <string>
 #include <locale.h>
